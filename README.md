@@ -5,9 +5,6 @@ care pot sosi la un garaj pentru a descoperi ce probleme tehnice au si a obtine 
 de reparatii. Fiecare vehicul poate avea probleme din diferite categorii: frane, directie,
 noxe, motor, caroserie. Nu toate vehiculele pot avea toate tipurile de probleme. Fiecare
 tip de problema are o solutie tehnica ce presupune un anumit consum de materiale (de
-
-- 3 -
-
 diferite tipuri) si un anumit efort uman (in ore-om). Fiecare material are un cost la fel ca
 si ora-om de efort uman. Pentru fiecare vehicul ce soseste in garaj trebuie calculat
 devizul estimativ.
